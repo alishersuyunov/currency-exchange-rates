@@ -6,7 +6,7 @@ Observed values of USD
 
 The following graph depicts observed values over the period from 2015-05-27 to 2017-08-12 18:17:53:
 
-![](market_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)
+![](market_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)![](market_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-2.png)
 
 Prognosticated values of USD
 ----------------------------

@@ -6,7 +6,7 @@ Observed values of USD
 
 The following graph depicts observed values over the period from 2011-01-04 to 2017-08-01.
 
-![](cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)
+![](cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)![](cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-2.png)
 
 Prognosticated values of USD
 ----------------------------
