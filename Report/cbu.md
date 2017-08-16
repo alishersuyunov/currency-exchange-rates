@@ -4,16 +4,16 @@ Forecasts of official USD exchange rates in Uzbekistan
 Observed values of USD
 ----------------------
 
-The following graph depicts observed values over the period from 2011-01-04 to 2017-08-01.
+The following graph depicts observed values of USD over the period from 2011-01-04 to 2017-08-01.
 
-![](cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)![](cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-2.png)
+<img src="cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png" style="display: block; margin: auto;" /><img src="cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-2.png" style="display: block; margin: auto;" />
 
 Prognosticated values of USD
 ----------------------------
 
-The following graph depicts forecasted values for 40 weeks.
+The following graph depicts forecasted values of USD for 40 weeks.
 
-![](cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-2-1.png)
+<img src="cbu_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-2-1.png" style="display: block; margin: auto;" />
 
 Forecasted official USD exchange rates for 40 weeks
 
